@@ -1,0 +1,7 @@
+{
+  "name": "modal-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
