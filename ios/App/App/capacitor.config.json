@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "modal-bug",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
